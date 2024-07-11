@@ -17,3 +17,7 @@ var maxOperations = function(nums, k) {
     }
     return c;
 };
+
+
+
+console.log("kdjkfkg")
